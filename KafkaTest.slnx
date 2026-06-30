@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="KafkaTest/KafkaTest.csproj" />
+  <Project Path="KafkaTest2/KafkaTest2.csproj" />
+  <Project Path="KafkaTestCommon/KafkaTestCommon.csproj" />
+</Solution>
